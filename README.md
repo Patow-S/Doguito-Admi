@@ -15,6 +15,7 @@ Este proyecto implementa una página web de gestión de clientes que utiliza Ora
 
 ## Uso
 Copiar y pegar http://144.22.48.255:3000/ y te redirecionara a http://144.22.48.255:3000/vistas/lista_cliente.html
+Si deseas agrega tu correo y nombre :)
 ## Contribución
 Si deseas contribuir o informar sobre problemas, siéntete libre de hacerlo a través de las solicitudes de extracción o problemas en este repositorio.
 
